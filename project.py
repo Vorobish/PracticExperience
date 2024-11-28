@@ -2,7 +2,6 @@ import fnmatch
 import os
 
 import pandas as pd
-import numpy as np
 
 
 class PriceMachine():
